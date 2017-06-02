@@ -5,10 +5,10 @@ A `Jupyter Notebook` with all the code is included in `./`.
 
 View the video outputs on YouTube at:
 
-[Solid White Right](https://youtu.be/FXENHZxqpEQ)
-[Solid Yellow Left](https://youtu.be/rBosWmPt8LQ)
-[Challenge Video](https://youtu.be/nIAWroDju_U)
-[Personal Challenge Video](https://youtu.be/gOCdDVxECAY)
+[Solid White Right](https://youtu.be/FXENHZxqpEQ)  
+[Solid Yellow Left](https://youtu.be/rBosWmPt8LQ)  
+[Challenge Video](https://youtu.be/nIAWroDju_U)  
+[Personal Challenge Video](https://youtu.be/gOCdDVxECAY)  
 
 Following is the original project description and README from Udacity.
 
