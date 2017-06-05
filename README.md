@@ -1,3 +1,19 @@
+This is the finished first project of Udacity's Self-Driving Car Nanodegree. 
+
+You can find the report write-up inside the `report/` folder.
+A `Jupyter Notebook` with all the code is included in `./`.
+
+View the video outputs on YouTube at:
+
+[Solid White Right](https://youtu.be/FXENHZxqpEQ)  
+[Solid Yellow Left](https://youtu.be/rBosWmPt8LQ)  
+[Challenge Video](https://youtu.be/nIAWroDju_U)  
+[Personal Challenge Video](https://youtu.be/gOCdDVxECAY)  
+
+Following is the original project description and README from Udacity.
+
+---
+
 #**Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
